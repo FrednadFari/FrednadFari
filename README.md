@@ -36,5 +36,5 @@ I build end-to-end data pipelines and scalable cloud solutions on AWS. My backgr
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fardis-foroughi)
 [![GitHub](https://img.shields.io/badge/GitHub-FrednadFari-black?style=flat&logo=github)](https://github.com/FrednadFari)
