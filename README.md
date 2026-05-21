@@ -1,36 +1,41 @@
 # Hi, I'm Fardis Foroughi 👋
 
-### Data Engineer | AWS · Spark · Airflow · SQL | Data Analytics & ML Background
+### Data Engineer / Analyst | AWS · PySpark · PyTorch | End-to-End Pipelines · ML Model Deployment · SageMaker
 
-I build end-to-end data pipelines and scalable cloud solutions on AWS. My background spans Data Engineering, Data Analytics, and Machine Learning — currently focused on Data Engineering roles where I can bring analytical thinking and ML awareness to pipeline design.
+I build data platforms that go all the way — from raw ingestion to live ML-powered predictions. My background spans Data Engineering, Data Analytics, and Machine Learning, with a focus on delivering production-grade AWS systems that drive real business decisions.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Data Engineering**
-`Apache Spark` `Apache Airflow (MWAA)` `AWS Glue` `Amazon Redshift` `Amazon EMR` `Amazon S3` `AWS Step Functions` `EventBridge` `DynamoDB` `Aurora MySQL`
+`AWS Glue (PySpark)` `Apache Spark` `Apache Airflow (MWAA)` `Amazon Redshift` `Amazon EMR` `Amazon S3` `AWS Step Functions` `EventBridge` `AWS Lambda` `DynamoDB` `Aurora MySQL`
 
-**Languages & Tools**
-`Python` `SQL` `T-SQL` `Jupyter Notebook`
-
-**Analytics & BI**
-`Tableau` `Data Modeling` `ETL` `Data Warehousing`
+**Database & Warehousing**
+`RDS MySQL` `RDS PostgreSQL` `Amazon Redshift` `SQL Server` `ETL / ELT` `Data Lake` `Data Lakehouse`
 
 **Machine Learning & Deep Learning**
-`Scikit-learn` `XGBoost` `PyTorch` `TensorFlow` `CNN` `ResNet`
+`PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `CNN` `ResNet` `Feedforward NN` `SageMaker Training & Endpoints` `MLflow` `SageMaker Model Registry`
+
+**Languages & Tools**
+`Python` `SQL` `T-SQL` `PySpark` `Terraform` `Docker` `Git / GitHub Actions`
+
+**Analytics & BI**
+`Amazon QuickSight` `Tableau` `Power BI` `Matplotlib` `Seaborn`
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Area | Stack |
-|---|---|---|
-| [End-to-End YouTube Analytics Pipeline](https://github.com/FrednadFari/end-to-end-youtube-analytics-pipeline) | Data Engineering | AWS S3, Glue, Step Functions, Athena, Python |
-| [Rent Cars Big Data Pipeline](https://github.com/FrednadFari/Rent-Cars-S3-EMR-Spark-Glue-Athena-Step-Functions-EventBridge-CustomEMR) | Data Engineering | EMR, Spark, Glue, Athena, Step Functions |
-| [Song Logs Airflow + Redshift Warehouse](https://github.com/FrednadFari/song-logs-S3-MWAA-Redshift-Datawarehouse) | Data Engineering | MWAA, Redshift, S3 |
-| [SQL Data Warehouse](https://github.com/FrednadFari/sql-data-warehouse-225) | Analytics Engineering | SQL Server, ETL, Data Modeling |
-| [California Housing Prediction](https://github.com/FrednadFari/california-housing-prediction) | Machine Learning | Scikit-learn, XGBoost, Random Forest |
+| # | Project | Area | Stack | Highlights |
+|---|---|---|---|---|
+| ⭐ | [**LA Real Estate Intelligence Platform**](https://github.com/FrednadFari/la-realestate-platform) | **Data Engineering + ML** | **AWS S3, Glue, Redshift, RDS, SageMaker, PyTorch, Terraform** | **2.3M+ records · Price Predictor R²=0.91 · Investment Scorer AUC=0.88 · Live SageMaker API** |
+| 1 | [End-to-End YouTube Analytics Pipeline](https://github.com/FrednadFari/end-to-end-youtube-analytics-pipeline) | Data Engineering | AWS S3, Glue, Step Functions, Athena, Python | Event-driven pipeline, partitioned data lake |
+| 2 | [Rent Cars Big Data Pipeline](https://github.com/FrednadFari/Rent-Cars-S3-EMR-Spark-Glue-Athena-Step-Functions-EventBridge-CustomEMR) | Data Engineering | EMR, Spark, Glue, Athena, Step Functions | Large-scale Spark processing on EMR |
+| 3 | [Song Logs Airflow + Redshift Warehouse](https://github.com/FrednadFari/song-logs-S3-MWAA-Redshift-Datawarehouse) | Data Engineering | MWAA, Redshift, S3 | Airflow-orchestrated warehouse pipeline |
+| 4 | [Dental Image Classification — CNN + ResNet50](https://github.com/FrednadFari/Dental-Image-Classification-CNN-nad-ResNet50) | Deep Learning | PyTorch, SageMaker, Step Functions | 97% test accuracy, two-stage ML pipeline |
+| 5 | [SQL Data Warehouse](https://github.com/FrednadFari/sql-data-warehouse-225) | Analytics Engineering | SQL Server, ETL, Data Modeling | Bronze–Silver–Gold architecture |
+| 6 | [California Housing Prediction](https://github.com/FrednadFari/california-housing-prediction) | Machine Learning | Scikit-learn, XGBoost, Random Forest | Multi-model comparison, city-wise analysis |
 
 ---
 
