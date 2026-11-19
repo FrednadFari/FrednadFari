@@ -8,20 +8,20 @@ I build data platforms that go all the way — from raw ingestion to live ML-pow
 
 ## 🛠️ Tech Stack
 
-**Data Engineering**
-`AWS Glue (PySpark)` `Apache Spark` `Apache Airflow (MWAA)` `Amazon Redshift` `Amazon EMR` `Amazon S3` `AWS Step Functions` `EventBridge` `AWS Lambda` `DynamoDB` `Aurora MySQL`
+**Data & Analytics Engineering**
+`SQL` `dbt (models, tests, snapshots, macros)` `Snowflake` `Apache Airflow (Astro, Cosmos)` `Airbyte (CDC)` `Python (pandas)` `PostgreSQL` `AWS (S3, Lambda, IAM, SSM, RDS)` `Docker` `Git` `GitHub Actions (CI)`
 
-**Database & Warehousing**
-`RDS MySQL` `RDS PostgreSQL` `Amazon Redshift` `SQL Server` `ETL / ELT` `Data Lake` `Data Lakehouse`
+**BI & Analysis**
+`Power BI (DAX, data modeling)` `Star schema & SCD2 design` `KPI definition` `Data quality testing & reconciliation` `Sales, pricing & demand analysis` `Marketplace analytics (eBay, Poshmark)`
 
-**Machine Learning & Deep Learning**
-`PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `CNN` `ResNet` `Feedforward NN` `SageMaker Training & Endpoints` `MLflow` `SageMaker Model Registry`
+**Forecasting & ML**
+`scikit-learn (gradient boosting)` `Rolling backtests vs. baselines` `Scenario analysis` `MLflow`
 
-**Languages & Tools**
-`Python` `SQL` `T-SQL` `PySpark` `Terraform` `Docker` `Git / GitHub Actions`
+**Ways of Working**
+`Business questions → data requirements` `Stakeholder communication` `Documentation (decision records, runbooks)` `Self-directed learning with AI tools`
 
-**Analytics & BI**
-`Amazon QuickSight` `Tableau` `Power BI` `Matplotlib` `Seaborn`
+**Also Familiar With** *(courses, learning projects)*
+`PySpark` `Amazon Redshift` `AWS Glue` `Step Functions` `EventBridge` `SageMaker` `EMR` `DynamoDB` `Apache Iceberg` `Tableau` `SSIS` `SQL Server` `MySQL` `TensorFlow` `PyTorch` `Keras` `Computer vision` `Jupyter` `NumPy` `Matplotlib` `Seaborn`
 
 ---
 
