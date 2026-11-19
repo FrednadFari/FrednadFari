@@ -29,7 +29,7 @@ I build data platforms that go all the way — from raw ingestion to live ML-pow
 
 | # | Project | Area | Stack | Highlights |
 |---|---|---|---|---|
-| ⭐ | [**LA Real Estate Intelligence Platform**](https://github.com/FrednadFari/la-realestate-platform) | **Data Engineering + ML** | **AWS S3, Glue, Redshift, RDS, SageMaker, PyTorch, Terraform** | **2.3M+ records · Price Predictor R²=0.91 · Investment Scorer AUC=0.88 · Live SageMaker API** |
+| ⭐ | [**LA Housing & Rentals Analytics Platform**](https://github.com/FrednadFari/la-housing-analytics) | **Data Engineering + Analytics + ML** | **RDS PostgreSQL, Airbyte CDC, Lambda, S3, Snowflake, dbt, Airflow (Cosmos), Power BI, MLflow** | **24 dbt models · 146 tests · daily Airflow pipeline · Power BI report · backtested rent forecast + rate-shock stress test** |
 | 1 | [End-to-End YouTube Analytics Pipeline](https://github.com/FrednadFari/end-to-end-youtube-analytics-pipeline) | Data Engineering | AWS S3, Glue, Step Functions, Athena, Python | Event-driven pipeline, partitioned data lake |
 | 2 | [Rent Cars Big Data Pipeline](https://github.com/FrednadFari/Rent-Cars-S3-EMR-Spark-Glue-Athena-Step-Functions-EventBridge-CustomEMR) | Data Engineering | EMR, Spark, Glue, Athena, Step Functions | Large-scale Spark processing on EMR |
 | 3 | [Song Logs Airflow + Redshift Warehouse](https://github.com/FrednadFari/song-logs-S3-MWAA-Redshift-Datawarehouse) | Data Engineering | MWAA, Redshift, S3 | Airflow-orchestrated warehouse pipeline |
