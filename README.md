@@ -9,7 +9,7 @@ I build data platforms that go all the way — from raw ingestion to live ML-pow
 ## 🛠️ Tech Stack
 
 **Data & Analytics Engineering**
-`SQL` `dbt (models, tests, snapshots, macros)` `Snowflake` `Apache Airflow (Astro, Cosmos)` `Airbyte (CDC)` `Python (pandas)` `PostgreSQL` `AWS (S3, Lambda, IAM, SSM, RDS)` `Docker` `Git` `GitHub Actions (CI)`
+`SQL` `dbt (models, tests, snapshots, macros)` `Snowflake` `Apache Airflow (Astro, Cosmos)` `Airbyte (CDC)` `Python (pandas)` `PostgreSQL` `AWS (S3, Lambda, IAM, SSM, RDS)` `Docker` `Git` `Terrafrom` `GitHub Actions (CI)`
 
 **BI & Analysis**
 `Power BI (DAX, data modeling)` `Star schema & SCD2 design` `KPI definition` `Data quality testing & reconciliation` `Sales, pricing & demand analysis` `Marketplace analytics (eBay, Poshmark)`
